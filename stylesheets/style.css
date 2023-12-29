@@ -1,0 +1,9 @@
+.movies div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.details{
+    display: flex;
+}
